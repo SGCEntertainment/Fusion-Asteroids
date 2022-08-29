@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title>Fusion Asteroids</title>
+    <title>snake game</title>
 	<link rel="stylesheet" href="Data/style.css">
   </head>
   <body style="text-align: center">
@@ -16,8 +16,8 @@
         codeUrl: "Build/WebGL.wasm.br",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "DefaultCompany",
-        productName: "Fusion Asteroids",
-        productVersion: "0.1",
+        productName: "snake game",
+        productVersion: "1.0",
       });
     </script>
   </body>
